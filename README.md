@@ -1,19 +1,12 @@
-# Mobile Frameworks
+# Mobile & Desktop Frameworks
 
-1. [React Native](https://facebook.github.io/react-native/)
-2. [Cordova](https://cordova.apache.org/)
-3. [PhoneGap](http://phonegap.com/)
-4. [NativeScript](https://www.nativescript.org/)
+1. Native Apps
+2. [Electron](https://electronjs.org/)
+3. [React Native](http://facebook.github.io/react-native/)
+4. PhoneGap/Cordova
+5. [Ionic](https://ionicframework.com/)
+6. [NativeScript](https://www.nativescript.org/)
 
 ---
 
-- [Ionic](http://ionicframework.com/)
-- [Xamarin](https://www.xamarin.com/)
-- [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
-- [Titanium](http://www.appcelerator.com/)
-- [Weex](https://alibaba.github.io/weex/)
-- [Fuse](https://www.fusetools.com/)
-- [Sencha](https://www.sencha.com/products/touch/)
-- [jQuery Mobile](https://jquerymobile.com/)
-- [Exponent](https://getexponent.com/)
-- [RubyMotion](http://www.rubymotion.com/)
+* PWA
