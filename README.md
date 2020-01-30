@@ -1,13 +1,9 @@
 # Mobile & Desktop
 
-1. [Electron](https://electronjs.org/) :fire:
-2. [React Native](https://facebook.github.io/react-native/) :fire:
-3. Native Apps (The majority of mobile and desktop apps are still built with native languages like Java, Kotlin, Objective-C, or Swift.)
-4. Cordova
-5. [Ionic](https://ionicframework.com/)
-6. [NativeScript](https://www.nativescript.org/)
-
----
-
-- Flutter
-- PWA
+- [Electron](https://www.electronjs.org/)
+- [React Native](https://facebook.github.io/react-native/)
+- Native Apps (The majority of mobile and desktop apps are still built with native languages like Java, Kotlin, Objective-C, or Swift.)
+- Cordova (Apache Cordova is a mobile application development framework.)
+- [Ionic](https://ionicframework.com/)
+- [NW.js](https://nwjs.io/)
+- [Expo](https://docs.expo.io/)
